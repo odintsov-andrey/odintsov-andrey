@@ -1,6 +1,9 @@
 Main projects
+
+https://ai-petri.army/ -- real frontend landing page
 --------------------------------------------------------------------------------------
-https://github.com/stigmatta/VStore_ASP-React.git - ASP .NET + EF Core + React web application (copy of a Steam)
+https://github.com/stigmatta/VStore_ASP-React.git - ASP .NET + EF Core + React web application (copy of a Steam) FRONT!!
+https://github.com/stigmatta/VStore_ASP.git !!BACK
 --------------------------------------------------------------------------------------
 https://github.com/stigmatta/ikea_project.git - React IKEA clone front-end application
 --------------------------------------------------------------------------------------
